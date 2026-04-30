@@ -52,7 +52,7 @@ Install Python (if not installed)
 
 Clone the repository:
 
-git clone https://github.com/your-username/smart-diet-planner.git
+[git clone https://github.com/your-username/smart-diet-planner.git](https://github.com/Supreetk71/CCC-PROJECT/tree/main)
 
 Navigate to the project folder:
 
